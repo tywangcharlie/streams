@@ -1,23 +1,26 @@
 {
   "streams": [
     {
-      "title": "My streams",
-      "description": "My streams",
+      "title": "My first stream",
+      "description": "try to edit my first stream",
+      "userId": "104907828825204456109",
       "id": 1
     },
     {
-      "title": "My streams",
-      "description": "My streams",
+      "title": "My second stream",
+      "description": "you can test the delete function",
+      "userId": "104907828825204456109",
       "id": 2
     },
     {
-      "title": "asfadsf",
-      "description": "adsfadsf",
+      "title": "the third stream",
+      "description": "lalalalala",
+      "userId": "104907828825204456109",
       "id": 3
     },
     {
-      "title": "sfadfasfadsf",
-      "description": "asdfasdfsd",
+      "title": "the fourth",
+      "description": "try using the OBS and input the StreamKey \"4\"",
       "userId": "104907828825204456109",
       "id": 4
     }
